@@ -1,19 +1,19 @@
 # ThinkLab-2257
-WebSphere Automation
+IBM WebSphere Automation Think 2021 Lab instructions
 
 
-Lab Enviroonment
+## Lab Environment
 -----------------
-Once you login you will see 10 VMs (virtual machines)
-3 are for lab infrastructure
-3 for OCP (OpenShift) controllers
-3 for OCP workers
-1 for the lab (Student VM)
-WebSphere Automation is pre-installed in the OCP cluster hosted on the VMs.
-You will be working on the Student VM only.
-This VM is installed with OCP client (oc) and all thee scripts and files you need for the lab.
+* Once you login you will see 10 VMs (virtual machines)
+  - 3 are for lab infrastructure
+  -	3 for OCP (OpenShift) controllers
+  - 3 for OCP workers
+  -	1 for the lab (Student VM)
+* WebSphere Automation is pre-installed in the OCP cluster hosted on the VMs.
+* You will be working on the Student VM only.
+  - This VM is installed with OCP client (oc) and all thee scripts and files you need for the lab.
 
-General VM (Virtual Machine) usage instructions
+## General VM (Virtual Machine) usage instructions
 ------------------------------------------------
 
 Once you login into the Student VM you will see the Desktop which contains all the programs that you will be using (browsers, terminal etc)  need to add a screen shot here (??)
