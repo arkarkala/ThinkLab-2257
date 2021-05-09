@@ -2,7 +2,7 @@
 IBM WebSphere Automation Think 2021 Lab instructions
 
 
-## Lab Enviroonment
+## Lab Environment
 -----------------
 * Once you login you will see 10 VMs (virtual machines)
   - 3 are for lab infrastructure
